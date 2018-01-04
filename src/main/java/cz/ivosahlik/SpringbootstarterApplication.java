@@ -1,4 +1,4 @@
-package com.example;
+package cz.ivosahlik;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -16,4 +16,7 @@ public class SpringbootstarterApplication extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootstarterApplication.class, args);
 	}
+
+
+
 }
